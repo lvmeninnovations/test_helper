@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
   name = 'test_helper',
   packages = ['test_helper'],
-  version = '0.2',
+  version = '0.3',
   description = 'A testing helper for scalable machine learning mooc',
   author = 'Daniel Liu',
   author_email = 'hpec.liu@gmail.com',
